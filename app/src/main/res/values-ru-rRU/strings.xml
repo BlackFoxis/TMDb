@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TMDb</string>
+
+    <string name="movie_details_title">Детали фильма</string>
+    <string name="cd_navigate_back">Назад</string>
+    <string name="unknown_title">Без названия</string>
+    <string name="cd_rating_icon">Иконка рейтинга</string>
+    <string name="movie_rating_format">%.1f/10 (%d голосов)</string> <!-- %.1f для double, %d для Int -->
+    <string name="section_title_genres">Жанры</string>
+    <string name="section_title_overview">Обзор</string>
+    <string name="overview_not_available">Описание недоступно.</string>
+    <string name="detail_label_release_date">Дата выхода</string>
+    <string name="detail_label_runtime">Продолжительность</string>
+    <string name="runtime_format_minutes">%d минут</string>
+    <string name="detail_label_status">Статус</string>
+    <string name="detail_label_original_title">Оригинальное название</string>
+    <string name="detail_label_languages">Языки</string>
+    <string name="section_title_production_companies">Компании</string>
+    <string name="section_title_production_countries">Страны</string>
+    <string name="error_occurred_format">Ошибка: %s</string>
+    <string name="button_retry">Попробовать снова</string>
+    <string name="no_movie_details_loaded">Информация о фильме не загружена.</string>
+</resources>

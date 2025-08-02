@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">TMDb</string>
+
+    <string name="movie_details_title">Movie Details</string>
+    <string name="cd_navigate_back">Navigate back</string> <!-- "cd" usually means "content description" for accessibility -->
+    <string name="unknown_title">Untitled</string>
+    <string name="cd_rating_icon">Rating icon</string>
+    <string name="movie_rating_format">%.1f/10 (%d votes)</string> <!-- Format remains the same, placeholder for double and Int -->
+    <string name="section_title_genres">Genres</string>
+    <string name="section_title_overview">Overview</string>
+    <string name="overview_not_available">Overview not available.</string>
+    <string name="detail_label_release_date">Release Date</string>
+    <string name="detail_label_runtime">Runtime</string>
+    <string name="runtime_format_minutes">%d minutes</string>
+    <string name="detail_label_status">Status</string>
+    <string name="detail_label_original_title">Original Title</string>
+    <string name="detail_label_languages">Languages</string>
+    <string name="section_title_production_companies">Production Companies</string>
+    <string name="section_title_production_countries">Production Countries</string>
+    <string name="error_occurred_format">Error: %s</string>
+    <string name="button_retry">Try Again</string>
+    <string name="no_movie_details_loaded">Movie details could not be loaded.</string>
+</resources>
